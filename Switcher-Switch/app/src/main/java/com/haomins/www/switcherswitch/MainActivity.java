@@ -33,6 +33,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 		//test - add value
 		levelsList.add(new Levels(1,"This level has ONE switch, which means 1C1, there is only ONE combination."));
+		levelsList.add(new Levels(2,"This level has ONE switch, which means 2C1, there is only ONE combination."));
+		levelsList.add(new Levels(3,"This level has ONE switch, which means 3C1, there is only ONE combination."));
+		levelsList.add(new Levels(4,"This level has ONE switch, which means 4C1, there is only ONE combination."));
+		levelsList.add(new Levels(5,"This level has ONE switch, which means 5C1, there is only ONE combination."));
+		levelsList.add(new Levels(6,"This level has ONE switch, which means 6C1, there is only ONE combination."));
+		levelsList.add(new Levels(7,"This level has ONE switch, which means 7C1, there is only ONE combination."));
+		levelsList.add(new Levels(8,"This level has ONE switch, which means 8C1, there is only ONE combination."));
+		levelsList.add(new Levels(9,"This level has ONE switch, which means 9C1, there is only ONE combination."));
+		levelsList.add(new Levels(10,"This level has ONE switch, which means 10C1, there is only ONE combination."));
+		levelsList.add(new Levels(11,"This level has ONE switch, which means 11C1, there is only ONE combination."));
+		levelsList.add(new Levels(12,"This level has ONE switch, which means 12C1, there is only ONE combination."));
+
 	}
 
 

@@ -10,7 +10,6 @@ class Levels {
 	public Levels(int level_number, String intro){
 		level_introduction = intro;
 		this.level_number = level_number;
-		//everytime a new level created, the level number increase
 	}
 	//===================================
 
