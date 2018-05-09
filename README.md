@@ -1,7 +1,7 @@
 # My Android Programs
 ###### All my Android apps in one place.
 ## Whats this repository for?
-###### Rework of my old practices
+###### Rework of my old practices.
 ## The project include:
 #### 1. Convertor
 
