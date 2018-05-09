@@ -1,9 +1,9 @@
 # My Android Programs
-######All my Android apps in one place.
-##Whats this repository for?
-######In this repository, I will be re-write some of the projects I did in the last semester. Most of the Android project in the last semester is completed in a hurry, and some of the projects are not fully implemented with less satisfactory UI and bad code implementation. In this repository, I will be fixing mistakes in the previous project, re-develop and distribute them in a better way.
+###### All my Android apps in one place.
+## Whats this repository for?
+###### In this repository, I will be re-write some of the projects I did in the last semester. Most of the Android project in the last semester is completed in a hurry, and some of the projects are not fully implemented with less satisfactory UI and bad code implementation. In this repository, I will be fixing mistakes in the previous project, re-develop and distribute them in a better way.
 
-##The project in last semster include:
+## The project in last semster include:
 #### 1. Convertor
 
 ><b>App Requirements</b>
@@ -28,7 +28,7 @@
 
 >[<i><u>Convertor OLD</u></i>](https://github.com/sssurvey/AndroidProjs/tree/master/Convertor10)
 
->[<i><u>Convertor NEW</u></i>](https://github.com/sssurvey/AndroidProjs/tree/master/Convertor10)
+>[<i><u>Convertor NEW</u></i>](https://github.com/sssurvey/My-Android-Programs/tree/master/Convertor)
 
 #### 2. Notepad
 #### 3. Stock Watch
