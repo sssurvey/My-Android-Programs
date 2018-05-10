@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_quick"
+        android:title="@string/menu_quick"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_length"
+        android:title="@string/menu_length" />
+    <item
+        android:id="@+id/menu_area"
+        android:title="@string/menu_area" />
+    <item
+        android:id="@+id/menu_weight"
+        android:title="@string/menu_weight" />
+    <item
+        android:id="@+id/menu_temp"
+        android:title="@string/menu_temp" />
+    <item
+        android:id="@+id/menu_EE"
+        android:title="@string/menu_electrical" />
+</menu>

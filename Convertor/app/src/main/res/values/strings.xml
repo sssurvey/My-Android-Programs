@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Convertor</string>
+    <string name="menu_length">Length</string>
+    <string name="menu_weight">Weight</string>
+    <string name="menu_area">Area</string>
+    <string name="menu_temp">Temperature</string>
+    <string name="menu_quick">Quick</string>
+    <string name="menu_electrical">Electrical</string>
 </resources>
